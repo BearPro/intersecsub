@@ -1,8 +1,0 @@
-C:\Users\mprokazin\source\repos\intersecsub\IntersecSub\bin\Debug\net5.0\IntersecSub.deps.json
-C:\Users\mprokazin\source\repos\intersecsub\IntersecSub\bin\Debug\net5.0\IntersecSub.dll
-C:\Users\mprokazin\source\repos\intersecsub\IntersecSub\bin\Debug\net5.0\IntersecSub.pdb
-C:\Users\mprokazin\source\repos\intersecsub\IntersecSub\obj\Debug\net5.0\IntersecSub.fsprojAssemblyReference.cache
-C:\Users\mprokazin\source\repos\intersecsub\IntersecSub\obj\Debug\net5.0\IntersecSub.AssemblyInfoInputs.cache
-C:\Users\mprokazin\source\repos\intersecsub\IntersecSub\obj\Debug\net5.0\IntersecSub.AssemblyInfo.fs
-C:\Users\mprokazin\source\repos\intersecsub\IntersecSub\obj\Debug\net5.0\IntersecSub.dll
-C:\Users\mprokazin\source\repos\intersecsub\IntersecSub\obj\Debug\net5.0\IntersecSub.pdb
