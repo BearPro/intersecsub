@@ -26,5 +26,5 @@ jobs:
     - name: Publish package
       uses: actions/upload-artifact@main
       with:
-        name: webpack artifacts
+        name: intersecsub
         path: IntersecSub.Cli/bin/Debug/net5.0/
