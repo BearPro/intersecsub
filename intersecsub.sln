@@ -7,6 +7,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "IntersecSub", "IntersecSub\
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "IntersecSub.Cli", "IntersecSub.Cli\IntersecSub.Cli.fsproj", "{412F6884-EB36-4F02-A7D9-9377849F676F}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "IntersecSub.Gui", "IntersecSub.Gui\IntersecSub.Gui.fsproj", "{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{412F6884-EB36-4F02-A7D9-9377849F676F}.Release|x64.Build.0 = Release|Any CPU
 		{412F6884-EB36-4F02-A7D9-9377849F676F}.Release|x86.ActiveCfg = Release|Any CPU
 		{412F6884-EB36-4F02-A7D9-9377849F676F}.Release|x86.Build.0 = Release|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Debug|x64.Build.0 = Debug|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Debug|x86.Build.0 = Debug|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Release|x64.ActiveCfg = Release|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Release|x64.Build.0 = Release|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Release|x86.ActiveCfg = Release|Any CPU
+		{1E25DA8C-1F86-4C66-A6E0-6D914341F4C7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
