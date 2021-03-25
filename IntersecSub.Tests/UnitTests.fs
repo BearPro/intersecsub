@@ -1,4 +1,4 @@
-module IntersecSub.Tests
+module IntersecSub.UnitTests
 
 open Xunit
 

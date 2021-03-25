@@ -8,7 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Tests.fs" />
+    <Compile Include="UnitTests.fs" />
+    <Compile Include="IntegriryTests.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
@@ -27,6 +28,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\IntersecSub\IntersecSub.fsproj" />
+    <ProjectReference Include="..\IntersecSub.Cli\IntersecSub.Cli.fsproj" />
   </ItemGroup>
 
 </Project>
