@@ -1,18 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-
     <IsPackable>false</IsPackable>
     <GenerateProgramFile>false</GenerateProgramFile>
   </PropertyGroup>
-
   <ItemGroup>
+    <Compile Include="FunctionalTests.fs" />
     <Compile Include="UnitTests.fs" />
     <Compile Include="IntegriryTests.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
-
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.7.1" />
     <PackageReference Include="xunit" Version="2.4.1" />
@@ -25,10 +22,8 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\IntersecSub\IntersecSub.fsproj" />
     <ProjectReference Include="..\IntersecSub.Cli\IntersecSub.Cli.fsproj" />
   </ItemGroup>
-
 </Project>
